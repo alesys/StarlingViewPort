@@ -46,5 +46,13 @@ package net.alesys.utils
 				y = int(screenHeight - height>>1);
 			}
 		}
+		public function get starlingStageWidth  ():Number
+		{
+			return stage_width;
+		}
+		public function get starlingStageHeight ():Number
+		{
+			return stage_height;
+		}
 	}
 }
