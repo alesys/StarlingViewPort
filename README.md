@@ -6,6 +6,7 @@ when you need to resize your project for different resolutions
 without losing the aspect ratio (Letterbox).
 
 Usage:
+
 	// #Example 1: Using predef resolution
 
 	var viewPort:ViewPort = new ViewPort(stage, ViewPort.IPHONE5_RETINA_LANDSCAPE);
